@@ -1,0 +1,2 @@
+# QQAutoReply
+利用图灵机器人的api，和AccessibilityService辅助服务监听QQ消息。
